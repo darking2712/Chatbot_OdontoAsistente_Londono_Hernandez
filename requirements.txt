@@ -1,0 +1,7 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+httpx==0.28.1
+tzdata>=2025.2
+gradio>=6.0,<7
+python-telegram-bot>=22,<23
+pydantic>=2,<3
