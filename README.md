@@ -5,7 +5,7 @@ Chatbot de reservas para un consultorio odontológico **ficticio** (Armenia, Qui
 - **Curso:** Electiva II (EAM-2026II) · Segundo corte y, desde la clase 11–13, tercer corte (canal de Telegram)
 - **Integrante:** Kevin Londoño Hernandez (trabajo individual)
 - **Repositorio:** https://github.com/darking2712/Odontoasistente
-- **Bot de Telegram:** [@usuario_del_bot](https://t.me/usuario_del_bot)
+- **Bot de Telegram:** [@odontoasistente_hernandez_bot](https://t.me/odontoasistente_hernandez_bot)
 
 > Todos los datos (consultorio, dirección, clientes y reservas) son ficticios. No ingreses información personal real.
 
