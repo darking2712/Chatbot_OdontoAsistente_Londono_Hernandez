@@ -1,6 +1,6 @@
 # Bitácora clase 13. Operaciones de Telegram y pruebas finales
 
-**Integrante:** Kevin Londoño Hernandez · **Repositorio:** https://github.com/darking2712/Odontoasistente
+**Integrante:** Kevin Londoño Hernandez · **Repositorio:** https://github.com/darking2712/Chatbot_OdontoAsistente_Londono_Hernandez
 
 ## 1. Qué añadió el canal
 
