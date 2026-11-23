@@ -273,13 +273,9 @@ Segundo corte:
 - [Bitácora del segundo corte](docs/Bitacora_Segundo_Corte.md)
 - [Presentación en PDF](docs/Presentacion_Segundo_Corte.pdf)
 
-Tercer corte (clase 11–12, Telegram):
-
-- [Bitácora de la clase 11–12](docs/C11-12_2026-10-26_Telegram.md)
-
 Tercer corte (clase 13, operaciones de Telegram y pruebas finales):
 
 - [Bitácora de la clase 13](docs/C13_Telegram_Operaciones.md)
 - [Matriz de 25 pruebas](docs/Matriz_25_Pruebas.md)
 
-Evidencias de ambos cortes: [docs/evidencias/](docs/evidencias/) (las capturas de Telegram se llaman `C11-12_01_…` a `C11-12_12_…`).
+Evidencias de ambos cortes: [docs/evidencias/](docs/evidencias/)
